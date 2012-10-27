@@ -28,7 +28,9 @@ TutorialApplication::~TutorialApplication(void)
 //-------------------------------------------------------------------------------------
 void TutorialApplication::createScene(void)
 {
-    // create your scene here :)
+
+
+	// create your scene here :)
     // Set the scene's ambient light
     mSceneMgr->setAmbientLight(Ogre::ColourValue(0.5f, 0.5f, 0.5f));
 
